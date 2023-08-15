@@ -20,7 +20,7 @@ This project allowed me to delve into several key React concepts:
 
 Feel free to connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/nikenhpsr/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/nikenhapsari/)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)](https://twitter.com/kenhpsr)
 
 Let's chat and share our tech experiences!
