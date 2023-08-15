@@ -6,6 +6,10 @@ Welcome to the Random Advices Generator project! This project was developed as a
 
 The Random Advices Generator is a simple web application that provides users with insightful pieces of advice to help guide them through life's challenges. By clicking a button, users can receive a randomly generated piece of advice, drawn from a collection of wisdom.
 
+## Try it Out
+
+You can experience the Random Advices Generator by visiting the live site: [Live Site](https://random-advicegen.vercel.app/)
+
 ## Key Concepts Explored
 
 This project allowed me to delve into several key React concepts:
